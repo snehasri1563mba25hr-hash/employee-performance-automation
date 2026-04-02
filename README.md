@@ -87,4 +87,4 @@ http://localhost:5678
 
 ## 🙌 Author
 
-Your Name
+Snehasri Dey
